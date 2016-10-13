@@ -14,25 +14,19 @@ Platform assembly: D:\Unity\SpaceGit\Space\Space_Data\Managed\UnityEngine.UI.dll
 Loading D:\Unity\SpaceGit\Space\Space_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\Unity\SpaceGit\Space\Space_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\Unity\SpaceGit\Space\Space_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.068 seconds
+- Completed reload, in  0.062 seconds
 Platform assembly: D:\Unity\SpaceGit\Space\Space_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Unity\SpaceGit\Space\Space_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.740696 ms
+UnloadTime: 0.912613 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.594430 ms
+UnloadTime: 5.858857 ms
 
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 263.
-Total: 0.277547 ms (FindLiveObjects: 0.033784 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.221097 ms  DeleteObjects: 0.005559 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.857445 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 263.
-Total: 0.275409 ms (FindLiveObjects: 0.035922 ms CreateObjectMapping: 0.011118 ms MarkObjects: 0.222379 ms  DeleteObjects: 0.005131 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.257019 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.209122 ms  DeleteObjects: 0.004704 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1a84 -> priority: 1 
+  Thread -> id: 1d40 -> priority: 1 
